@@ -73,4 +73,4 @@ The System Management Tool provides a comprehensive solution for maintaining opt
 
 3. Run the Program using:
    ```bash
-   GUI_Module.py
+   Gui Module.py
