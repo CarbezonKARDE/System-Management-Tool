@@ -22,6 +22,9 @@ The Task Manager module provides detailed insights into system resource utilizat
 **Disk Write Usage Graph**
 ![Task Manager - Disk Write Usage](resources/Task_Manager_Module_Disk_Write.png)
 
+**Power Usage Warning**
+![Task Manager - When Power usge reaches high or very high](resources/Task_Manager_Module_Threshold.png)
+
 ### Backup Scheduler
 The Backup Scheduler module allows users to configure source and destination directories for automated backups. It implements a customizable backup interval system and manages backup rotations to maintain a specified number of recent backups while conserving storage space.
 ![Backup Scheduler - UI](resources/Backup_Scheduler_Module.png)
